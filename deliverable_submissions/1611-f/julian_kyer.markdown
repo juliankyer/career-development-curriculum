@@ -1,5 +1,21 @@
 # Julian Kyer
 
+## Mod 4 Deliverables:
+
+### Cold Outreach
+
+May 2nd I contacted Jeff Wille at ThoughtWorks, and we have plans to get coffee.
+
+May 8th I contacted Robby Mann at Level3, we have pending plans for coffee and informational interview.
+
+May 4th I contacted Eric Marcoullier at Cloudspace, we have been playing email-tag.
+
+May 23rd I contacted Justin England at The Pros Closet, and he will keep me updated as they make moves to update their software.
+
+May 25th I contacted Casey Rabiea at The Trade Desk, and have not heard back.
+
+May 25th I contacted Joe Malafronte at HubSpot, have not heard back yet.
+
 ## Mod 3 Deliverables:
 
 
