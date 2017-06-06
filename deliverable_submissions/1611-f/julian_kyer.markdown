@@ -2,6 +2,15 @@
 
 ## Mod 4 Deliverables:
 
+### Practice Interview
+
+I did a practice whiteboarding interview session with Brittany during Mod4. I was surprised at how difficult it was, and how much I over-thought things. It was a great reminder to slow down, ask questions, and do something simple that works, instead of something complex that doesn't function. She also gave me some great advice on whiteboarding syntax that I will use in the future.
+
+Moving forward, I'd like to do a full mock interview to refine my skills, and I have someone I think will be able to help me with that.
+
+### Post Mod 4 Plan
+[Plan on GH](https://gist.github.com/juliankyer/b1bc78ec5521fc69903bc8d19cae8948)
+
 ### Cold Outreach
 
 May 2nd I contacted Jeff Wille at ThoughtWorks, and we have plans to get coffee.
